@@ -1,3 +1,1 @@
-title: About Me
-layout: template
-filename: AboutMe.md
+[Home](index.md)

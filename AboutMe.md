@@ -4,6 +4,6 @@ I am an undergraduate student studying Computer Science and Data Science, but my
 ( add section from resume here)  
 
 
-![Headshot](profile picture 2.jpg)  
+![Headshot](headshot.jpg)  
  
 [Home](index.md)

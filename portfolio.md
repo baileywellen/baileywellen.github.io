@@ -1,5 +1,7 @@
----  
----   
+---
+layout: post
+title: Blogging Like a Hacker
+--- 
 
 
 [Project : Building R Shiny Dashboards](https://github.com/baileywellen/Learning-RShiny)  

@@ -1,7 +1,6 @@
 ---  
-title: "Portfolio Page"  
-subtitle: "This is a subtitle"  
----
+---   
+
 
 [Project : Building R Shiny Dashboards](https://github.com/baileywellen/Learning-RShiny)  
 * Iris Dataset - Basic Kmeans Clustering Dashboard and Interactive Barplots

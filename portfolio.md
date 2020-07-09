@@ -1,2 +1,4 @@
 
-[Project : Building R Shiny Dashboards](https://github.com/baileywellen/Learning-RShiny)
+[Project : Building R Shiny Dashboards](https://github.com/baileywellen/Learning-RShiny)  
+* Iris Dataset - Basic Kmeans Clustering Dashboard and Interactive Barplots
+* Police Shooting Dataset - Dashboard to analyze age, mental illness, weapons, and other case details by state

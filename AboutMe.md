@@ -1,5 +1,5 @@
 # About Me
-* Student | Christian | Aspiring Data Scientist | Classical Musician | Weight Lifter | Chocolate Lover *
+*Student | Christian | Aspiring Data Scientist | Classical Musician | Weight Lifter | Chocolate Lover*
 ![Headshot](headshot.jpg)  
 
 ##Professional Facts  

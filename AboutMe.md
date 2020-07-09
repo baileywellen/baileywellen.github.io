@@ -2,7 +2,7 @@
 *Student | Christian | Aspiring Data Scientist | Classical Musician | Weight Lifter | Chocolate Lover*  
 ![Headshot](headshot.jpg)  
 
-##Professional Facts  
+## Professional Facts  
 
 
 ### Professional Goals 
@@ -13,9 +13,11 @@ I am an undergraduate student studying Computer Science and Data Science, but my
 ### Professional Experience  
 
 
-##Personal Facts  
+## Personal Facts  
 
-###Fun Facts:
+### Hobbies 
+
+### Fun Facts:
 
 
  

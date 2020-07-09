@@ -1,6 +1,6 @@
----
+---  
 title: "Portfolio Page"  
-subtitle: "This is a subtitle"
+subtitle: "This is a subtitle"  
 ---
 
 [Project : Building R Shiny Dashboards](https://github.com/baileywellen/Learning-RShiny)  

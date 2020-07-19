@@ -32,7 +32,7 @@ My professional goals can be split into the "Three I's" : Impact, Improvement, a
 * Improvement - I want to be a forever learner. I plan to position myself in communities and roles where I am surrounded by people who know more than I do, so that I can be constantly growing and improving   
 * Instruction - I hope to return to academia later in my career to mentor and instruct the future data-scientists/programmers/innovators of the world!  
 
-### Professional Story
+### Professional Experience
 
 * 2017 - 2021 Attended Carthage College  
 *Majors - Computer Science and Data Science*

@@ -34,11 +34,11 @@ My professional goals can be split into the "Three I's" : Impact, Improvement, a
 
 ### Professional Story
 
-* 2017 - 2021 Attended Carthage College
+* 2017 - 2021 Attended Carthage College  
 *Majors - Computer Science and Data Science*
-*Minors - Mathematics and Spanish*
+*Minors - Mathematics and Spanish*  
 
-*January 2018 - Present - Computer Science Tutor at Carthage College
+* January 2018 - Present - Computer Science Tutor at Carthage College
 * Fall 2018 - Innovation Intern at The Commons
 * Summer 2019 - Decision Sciences Intern at Abbvie
 * September 2019 - December 2019 - Intern at NASA Wisconsion Space Grant Consortium 

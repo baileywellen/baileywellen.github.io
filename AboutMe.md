@@ -2,8 +2,6 @@
 *Student | Aspiring Data Scientist | Classical Musician | Weight Lifter | Chocolate Lover*  
 ![Headshot](headshot.jpg)  
 
-## Professional Life  
-
 Hello, World! I am an undergraduate student studying Computer Science and Data Science, and I love programming to solve hard-hitting problems in our communities. I am passionate about using Data Science for social good and ensuring that data is analyzed ethically and accurately - I am always looking to collaborate on projects where I can help further that mission.
 
 Accomplishments:
@@ -22,6 +20,8 @@ Data Analytics, Data Science, Data Visualization, Machine Learning, Statistics, 
 Please feel free to reach out to discuss all things technology and ethical data!
 baileywellen@gmail.com
 
+## Professional Life  
+
 ### Professional Goals
 
 I am excited to get into the workforce, and I hope I can hit the ground running! 
@@ -31,7 +31,6 @@ My professional goals can be split into the "Three I's" : Impact, Improvement, a
 * Impact - I am working to develop skills to become a competent and thorough data scientist. I hope to positively impact my coworkers and clients by programming with foundational morals of accuracy, transparency, and fairness
 * Improvement - I want to be a forever learner. I plan to position myself in communities and roles where I am surrounded by people who know more than I do, so that I can be constantly growing and improving 
 * Instruction - I hope to return to academia later in my career to mentor and instruct the future data-scientists/programmers/innovators of the world!
-
 
 ### Professional Experience  
 

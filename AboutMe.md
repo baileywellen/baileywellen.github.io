@@ -35,7 +35,7 @@ My professional goals can be split into the "Three I's" : Impact, Improvement, a
 ### Professional Story
 
 * 2017 - 2021 Attended Carthage College
-* Majors - Computer Science and Data Science
+*Majors - Computer Science and Data Science
 Minors - Mathematics and Spanish *
 
 

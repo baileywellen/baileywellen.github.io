@@ -26,10 +26,10 @@ baileywellen@gmail.com
 
 I am excited to get into the workforce, and I hope I can hit the ground running! 
 
-My professional goals can be split into the "Three I's" : Impact, Information, and Instruction
+My professional goals can be split into the "Three I's" : Impact, Improvement, and Instruction
 
 * Impact - I am working to develop skills to become a competent and thorough data scientist. I hope to positively impact my coworkers and clients by programming with foundational morals of accuracy, transparency, and fairness
-* Informational - I want to be a forever learner. I plan to position myself in communities and roles where I am surrounded by people who know more than I do, so that I can be constantly growing and improving 
+* Improvement - I want to be a forever learner. I plan to position myself in communities and roles where I am surrounded by people who know more than I do, so that I can be constantly growing and improving 
 * Instruction - I hope to return to academia later in my career to mentor and instruct the future data-scientists/programmers/innovators of the world!
 
 

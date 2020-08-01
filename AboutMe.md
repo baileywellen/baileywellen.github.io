@@ -14,13 +14,13 @@ My professional goals can be split into the "Three I's" : Impact, Improvement, a
 * Instruction - I would love to return to academia later in my career to mentor and instruct the future data-scientists/programmers/innovators of the world!  
 
 ### Professional Experience
-*2 Years Interning / Contracting, 4 Years Tutoring Computer Science*
-* Deloitte |  Cyber Risk Intern | Summer 2020  
-* Abbvie |  Decision Sciences Contractor | September 2019 - Present
-* Carthage College |  Computer Science Tutor | January 2018 - Present
-* NASA Wisconsion Space Grant Consortium | Intern | September 2019 - December 2019
-* Abbvie | Decision Sciences Intern | Summer 2019
-* The Commons | Innovation Intern | Fall 2019  
+*2 Years Interning & Contracting, 4 Years Tutoring Computer Science*
+* Deloitte /  Cyber Risk Intern / Summer 2020  
+* Abbvie /  Decision Sciences Contractor / September 2019 - Present
+* Carthage College /  Computer Science Tutor / January 2018 - Present
+* NASA Wisconsion Space Grant Consortium / Intern / September 2019 - December 2019
+* Abbvie / Decision Sciences Intern / Summer 2019
+* The Commons / Innovation Intern / Fall 2019  
 
 ### Accomplishments 
 * Document Automation - successful automation of data transfer between various documents, spreadsheets, and databases, saving time and ensuring accuracy  

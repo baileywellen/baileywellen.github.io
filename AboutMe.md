@@ -25,14 +25,14 @@ My professional goals can be split into the "Three I's" : Impact, Improvement, a
 
 ![Deloitte Internship](Cyber_Interns1.png)
 
-**Accomplishments:**  
+### Accomplishments 
 * Document Automation - successful automation of data transfer between various documents, spreadsheets, and databases, saving time and ensuring accuracy  
 * All Things Data - coursework and personal projects developing machine learning algorithms, creating dashboards, and performing business analysis  
 * Oral & Written Communication - experience presenting innovative ideas to groups of up to 300 people, including executive teams, stakeholders, and fellow interns  
 * Group Leadership - founder of Carthage’s Data Science Club, where I organized and led professional development opportunities such as hackathons and outreach events  
 
-**Skills & Interests:**  
-Data Analytics, Data Science, Data Visualization, Machine Learning, Statistics, Python, R, Tableau, Dashboard Creation, Oracle Databases, C/C++, SQL, Automation, Scripting
+### Skills & Interests 
+Data Analytics, Data Science, Data Visualization, Machine Learning, Statistics, Python, R, Tableau, Dashboard Creation, Oracle Databases, C/C++, SQL, Automation, Scripting, Tutoring, Education
 
 ### Education
 

@@ -7,6 +7,8 @@
 * Iris and Tooth Growth Datasets - Interactive Barplot Dashboard  
 *[View Iris and Tooth Growth Code](https://github.com/baileywellen/Learning-RShiny/blob/master/iris_and_toothgrowth.R)* 
 
+## Carthage College Senior Thesis 
+* In the works... coming soon!
 
 [Home](index.md)
 

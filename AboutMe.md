@@ -41,7 +41,7 @@ My professional goals can be split into the "Three I's" : Impact, Improvement, a
 * Abbvie | Decision Sciences Intern | Summer 2019
 * The Commons | Innovation Intern | Fall 2019
 
-![Deloitte Internship](Cyber_Interns1.jpg)
+![Deloitte Internship](Cyber_Interns1.png)
 
 ### Education
 

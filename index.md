@@ -4,7 +4,7 @@ Hello, World! I am an undergraduate student studying Computer Science and Data S
 
 [Portfolio](portfolio.md)   
 
-Feel free to contact me to discuss any opportunities for collaboration or anything and everything data science!  
+Feel free to contact me for any requests for collaboration or with any questions  
 Email: baileywellen@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/bailey-wellen/)
 

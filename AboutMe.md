@@ -2,8 +2,6 @@
 *Student at Carthage College | Aspiring Data Scientist*  
 ![Headshot](headshot.jpg)  
 
-Hello, World! I am an undergraduate student studying Computer Science and Data Science, and I love utilizing programming to solve hard-hitting problems in our communities. I am passionate about using Data Science for social good and ensuring that data is analyzed ethically and accurately - I am always looking to collaborate on projects where I can help further that mission.
-
 **Accomplishments:**  
 * Document Automation - successful automation of data transfer between various documents, spreadsheets, and databases, saving time and ensuring accuracy  
 * All Things Data - coursework and personal projects developing machine learning algorithms, creating dashboards, and performing business analysis  

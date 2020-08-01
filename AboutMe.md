@@ -2,22 +2,6 @@
 *Student at Carthage College | Aspiring Data Scientist*  
 ![Headshot](headshot.jpg)  
 
-**Accomplishments:**  
-* Document Automation - successful automation of data transfer between various documents, spreadsheets, and databases, saving time and ensuring accuracy  
-* All Things Data - coursework and personal projects developing machine learning algorithms, creating dashboards, and performing business analysis  
-* Oral & Written Communication - experience presenting innovative ideas to groups of up to 300 people, including executive teams, stakeholders, and fellow interns  
-* Group Leadership - founder of Carthage’s Data Science Club, where I organized and led professional development opportunities such as hackathons and outreach events  
-
-**Experience:**  
-2 years internship/contracting experience
-4 years tutoring Computer Science
-
-**Skills & Interests:**  
-Data Analytics, Data Science, Data Visualization, Machine Learning, Statistics, Python, R, Tableau, Dashboard Creation, Oracle Databases, C/C++, SQL, Automation, Scripting
-
-Please feel free to reach out to discuss all things technology and ethical data!
-baileywellen@gmail.com
-
 ## Professional Life  
 
 ### Professional Goals
@@ -31,7 +15,7 @@ My professional goals can be split into the "Three I's" : Impact, Improvement, a
 * Instruction - I hope to return to academia later in my career to mentor and instruct the future data-scientists/programmers/innovators of the world!  
 
 ### Professional Experience
-
+*2 Years Interning / Contracting, 4 Years Tutoring Computer Science*
 * Deloitte |  Cyber Risk Intern | Summer 2020  
 * Abbvie |  Decision Sciences Contractor | September 2019 - Present
 * Carthage College |  Computer Science Tutor | January 2018 - Present
@@ -40,6 +24,15 @@ My professional goals can be split into the "Three I's" : Impact, Improvement, a
 * The Commons | Innovation Intern | Fall 2019
 
 ![Deloitte Internship](Cyber_Interns1.png)
+
+**Accomplishments:**  
+* Document Automation - successful automation of data transfer between various documents, spreadsheets, and databases, saving time and ensuring accuracy  
+* All Things Data - coursework and personal projects developing machine learning algorithms, creating dashboards, and performing business analysis  
+* Oral & Written Communication - experience presenting innovative ideas to groups of up to 300 people, including executive teams, stakeholders, and fellow interns  
+* Group Leadership - founder of Carthage’s Data Science Club, where I organized and led professional development opportunities such as hackathons and outreach events  
+
+**Skills & Interests:**  
+Data Analytics, Data Science, Data Visualization, Machine Learning, Statistics, Python, R, Tableau, Dashboard Creation, Oracle Databases, C/C++, SQL, Automation, Scripting
 
 ### Education
 

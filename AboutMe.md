@@ -54,7 +54,7 @@ My professional goals can be split into the "Three I's" : Impact, Improvement, a
 * Fitness - Weightlifting is my favorite, but I can't turn down a fun Zumba class or a relaxing yoga class  
 * Faith - I am very involved at my church and am a leader in the Carthage Intervarsity Christian Fellowship chapter  
 * Bullet Journaling - I am a terrible artist, but have grown to love the creativity of bullet journaling   
-*if you haven't heard of bullet journaling, it's like a journal on steroids. [Check it out](https://bulletjournal.com/)*  
+*( if you haven't heard of bullet journaling, it's like a journal on steroids. [Check it out](https://bulletjournal.com/) )*  
 
 
 

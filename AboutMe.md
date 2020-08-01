@@ -41,7 +41,7 @@ My professional goals can be split into the "Three I's" : Impact, Improvement, a
 * Abbvie | Decision Sciences Intern | Summer 2019
 * The Commons | Innovation Intern | Fall 2019
 
-![Abbvie Internship](RQS Showcase.jpg)
+![Abbvie Internship]("RQS Showcase.jpg")
 
 ### Education
 

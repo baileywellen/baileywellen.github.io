@@ -20,9 +20,7 @@ My professional goals can be split into the "Three I's" : Impact, Improvement, a
 * Carthage College |  Computer Science Tutor | January 2018 - Present
 * NASA Wisconsion Space Grant Consortium | Intern | September 2019 - December 2019
 * Abbvie | Decision Sciences Intern | Summer 2019
-* The Commons | Innovation Intern | Fall 2019
-
-![Deloitte Internship](Cyber_Interns1.png)
+* The Commons | Innovation Intern | Fall 2019  
 
 ### Accomplishments 
 * Document Automation - successful automation of data transfer between various documents, spreadsheets, and databases, saving time and ensuring accuracy  

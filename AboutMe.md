@@ -1,5 +1,5 @@
 # About Me  
-*Student | Aspiring Data Scientist | Classical Musician | Weight Lifter | Chocolate Lover*  
+*Student at Carthage College | Aspiring Data Scientist*  
 ![Headshot](headshot.jpg)  
 
 Hello, World! I am an undergraduate student studying Computer Science and Data Science, and I love utilizing programming to solve hard-hitting problems in our communities. I am passionate about using Data Science for social good and ensuring that data is analyzed ethically and accurately - I am always looking to collaborate on projects where I can help further that mission.
@@ -34,22 +34,29 @@ My professional goals can be split into the "Three I's" : Impact, Improvement, a
 
 ### Professional Experience
 
+* Deloitte |  Cyber Risk Intern | Summer 2020  
+* Abbvie |  Decision Sciences Contractor | September 2019 - Present
+* Carthage College |  Computer Science Tutor | January 2018 - Present
+* NASA Wisconsion Space Grant Consortium | Intern | September 2019 - December 2019
+* Abbvie | Decision Sciences Intern | Summer 2019
+* The Commons | Innovation Intern | Fall 2019
+
+### Education
+
 * 2017 - 2021 Attended Carthage College  
 *Majors - Computer Science and Data Science*  
 *Minors - Mathematics and Spanish*  
 
-* January 2018 - Present - Computer Science Tutor at Carthage College
-* Fall 2018 - Innovation Intern at The Commons
-* Summer 2019 - Decision Sciences Intern at Abbvie
-* September 2019 - December 2019 - Intern at NASA Wisconsion Space Grant Consortium 
-* September 2019 - Present - Decision Sciences Contractor at Abbvie
-* June 2020 - Present - Cyber Risk Intern at Deloitte
-
 ## Personal Life  
 
-### Hobbies 
+### Hobbies and Interests  
+* Music - I have played viola for 11 years and participate in the Carthage Philharmonic!  
+* Fitness - Weightlifting is my favorite, but I can't turn down a fun Zumba class or a relaxing yoga class  
+* Faith - I am very involved at my church and am a leader in the Carthage Intervarsity Christian Fellowship chapter  
+* Bullet Journaling - I am a terrible artist, but have grown to love the creativity of bullet journaling   
+*if you haven't heard of bullet journaling, it's like a journal on steroids. Check it out [Bullet Journaling](https://bulletjournal.com/)*  
 
-### Fun Facts:
+
 
 
  

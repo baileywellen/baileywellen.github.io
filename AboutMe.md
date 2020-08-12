@@ -29,7 +29,7 @@ My professional goals can be split into the "Three I's" : Impact, Improvement, a
 * Group Leadership - founder of Carthage’s Data Science Club, where I organized and led professional development opportunities such as hackathons and outreach events 
 
 ### Education
-* 2017 - 2021 Attended Carthage College  
+* 2017 - 2021 Carthage College B.A. 
 *Majors - Computer Science and Data Science*  
 *Minors - Mathematics and Spanish*  
 

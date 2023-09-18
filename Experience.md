@@ -1,5 +1,4 @@
 # Professional Experience 
-![Headshot](headshot.jpg)  
 
 ### Research Experience
 * Carthage College Senior Capstone /  Independent Researcher / May 2020 - May 2021  

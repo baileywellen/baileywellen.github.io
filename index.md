@@ -1,4 +1,4 @@
-Hello, World! I am an undergraduate student studying Computer Science and Data Science, and I love utilizing programming to solve hard-hitting problems in our communities. I am passionate about using Data Science for social good and ensuring that data is analyzed ethically and accurately - I am always looking to collaborate on projects where I can help further that mission.
+Hello, World! I am a data scientist interested in applying quantitative and technological methods to public health and public policy research. I earned my undergraduate degrees in Computer Science and Data Science from Carthage College and am currently pursuing a Ph.D. in Computational and Data Sciences at Washington University in St. Louis. After a longtime interest in Substance Use Disorders and volunteer work at substance use treatment centers, I have decided to focus my research on how data science methods can uncover new findings about substance use to better protect and treat people battling substance use disorders.
 
 Explore my Website:  
 * [About Me](AboutMe.md)  

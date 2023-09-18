@@ -9,8 +9,8 @@
 * Iris and Tooth Growth Datasets - Interactive Barplot Dashboard  
 *[View Iris and Tooth Growth Code](https://github.com/baileywellen/Learning-RShiny/blob/master/iris_and_toothgrowth.R)* 
 
-## Carthage College Senior Thesis 
-* In the works... coming soon!
+## Carthage College Senior Thesis - "Please Don't Sing"
+* For my senior thesis, I collected audio recordings from volunteers who sang "Happy Birthday". I created an R Shiny App for participants to hear randomly selected recordings and rate them on a scale of 0 - 10. Each recording was heard by many people, scores were normalized by reviewer, and recordings were given a rating based on the average of their reviewers' scoring. Then, I used this labeled data to build a model that could predict how enjoyable a given recording of "Happy Birthday" was, and presented the results on an interactive web app using Heroku. 
 
 [Home](index.md)
 

@@ -1,4 +1,4 @@
-# Professional Experience 
+# My Experience 
 
 ### Research Experience
 * Carthage College Senior Capstone /  Independent Researcher / May 2020 - May 2021  
@@ -16,13 +16,14 @@
 * The Commons / Innovation Intern / Fall 2019  
 
 ### Education
-* 2023 - Present Washington University in St. Louis, Ph.D.
-*Computational and Data Sciences*
-*NIDA T32 Grant Receipient for Transdisciplinary Training in Addiction Research*
+* 2023 - Present Washington University in St. Louis, Ph.D.  
+*Computational and Data Sciences*  
+*NIDA T32 Grant Receipient for Transdisciplinary Training in Addiction Research*  
 
 * 2017 - 2021 Carthage College B.A.  
 *Majors - Computer Science and Data Science*  
-*Minors - Mathematics and Spanish*  
+*Minors - Mathematics and Spanish*
+*Summa Cum Laude*  
 
 ### Technical Skills
 Python, R, C/C++, SQL, Google Cloud Platform (GCP), Tableau, ArcGIS Pro  

@@ -1,59 +1,8 @@
 # About Me  
-*Student at Carthage College | Aspiring Data Scientist*  
+*Ph.D. Student at Washington University in St. Louis | Data Scientist | Research Interest in Addiction & Substance Use Disorders *  
 ![Headshot](headshot.jpg)  
 
-## Professional Life  
+Hello, World! I am a data scientist interested in applying quantitative and technological methods to public health and public policy research. I earned my undergraduate degrees in Computer Science and Data Science from [Carthage College](https://www.carthage.edu/) and am currently pursuing a Ph.D. in Computational and Data Sciences at [Washington University in St. Louis](https://wustl.edu/). After a longtime interest in Substance Use Disorders and volunteer work at substance use treatment centers, I have decided to focus my research on how data science methods can uncover new findings about substance use to better protect and treat people battling substance use disorders. 
 
-### Professional Goals
-I am excited to get into the workforce, and I hope I can hit the ground running! 
-
-My professional goals can be split into the "Three I's" : Impact, Improvement, and Instruction
-
-* Impact - I am working to develop skills to become a competent and thorough data scientist. I hope to positively impact my coworkers and clients by programming with foundational morals of accuracy, transparency, and fairness  
-* Improvement - I will be a forever learner. I plan to position myself in communities and roles where I am surrounded by people who know more than I do, so that I can be constantly growing and improving   
-* Instruction - I would love to return to academia later in my career to mentor and instruct the future data-scientists/programmers/innovators of the world!  
-
-### Professional Experience
-*2 Years Interning & Contracting, 4 Years Tutoring Computer Science*
-* Deloitte /  Cyber Risk Intern / Summer 2020  
-* Abbvie /  Decision Sciences Contractor / September 2019 - Present
-* Carthage College /  Computer Science Tutor / January 2018 - Present
-* NASA Wisconsion Space Grant Consortium / Intern / September 2019 - December 2019
-* Abbvie / Decision Sciences Intern / Summer 2019
-* The Commons / Innovation Intern / Fall 2019  
-
-### Accomplishments 
-* Document Automation - successful automation of data transfer between various documents, spreadsheets, and databases, saving time and ensuring accuracy  
-* All Things Data - coursework and personal projects developing machine learning algorithms, creating dashboards, and performing business analysis  
-* Oral & Written Communication - experience presenting innovative ideas to groups of up to 300 people, including executive teams, stakeholders, and fellow interns  
-* Group Leadership - founder of Carthage’s Data Science Club, where I organized and led professional development opportunities such as hackathons and outreach events 
-
-### Education
-* 2017 - 2021 Carthage College B.A.  
-*Majors - Computer Science and Data Science*  
-*Minors - Mathematics and Spanish*  
-
-### Skills & Interests 
-Data Analytics, Data Science, Data Visualization, Machine Learning, Statistics, Python, R, Tableau, Dashboard Creation, Oracle Databases, C/C++, SQL, Automation, Scripting, Tutoring, Education
-
-
-
-## Personal Life  
-
-### Hobbies and Interests  
-* Music - I have played viola for 11 years and participate in the Carthage Philharmonic!  
-* Fitness - Weightlifting is my favorite, but I can't turn down a fun Zumba class or a relaxing yoga class  
-* Faith - I am very involved at my church and am a leader in the Carthage Intervarsity Christian Fellowship chapter  
-* Bullet Journaling - I am a terrible artist, but have grown to love the creativity of bullet journaling   
-*( if you haven't heard of bullet journaling, it's like a journal on steroids. [Check it out](https://bulletjournal.com/) )*  
-
-
-
-
- 
-
-
-
- 
  
 [Home](index.md)

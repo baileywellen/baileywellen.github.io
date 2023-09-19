@@ -1,5 +1,7 @@
 # My Experience 
 
+[See my full CV here](BWellenOsweiler_CV_Sept2023.pdf)
+
 ### Research Experience
 * Carthage College Senior Capstone /  Independent Researcher / May 2020 - May 2021  
 * Correlation One /  Data Science Fellow / September 2020 - November 2020

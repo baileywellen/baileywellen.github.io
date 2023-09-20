@@ -46,5 +46,5 @@
 * Tableau Desktop Specialist  
   
 ### Technical Skills
-* Python, R, C\|C++, SQL, Google Cloud Platform (GCP), Tableau, ArcGIS Pro  
+* Python, R, C / C++, SQL, Google Cloud Platform (GCP), Tableau, ArcGIS Pro  
 

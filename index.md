@@ -1,4 +1,4 @@
-![Headshot](headshot.jpg)  
+![Headshot](newheadshot.jpeg)  
 
 Hello, World! 
 

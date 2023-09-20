@@ -5,9 +5,12 @@
 [See my full CV here](BWellenOsweiler_CV_Sept2023.pdf)
 
 ### Research Experience
-* Carthage College Senior Capstone \| Independent Researcher \| May 2020 - May 2021  
-* Correlation One \|  Data Science Fellow \| September 2020 - November 2020
-* Carthage College Psychology Lab \|  Saccadic Eye Movement Researcher \| February 2018 - May 2018  
+* Carthage College Senior Capstone
+    * Independent Researcher \| May 2020 - May 2021  
+* Correlation One
+    * Data Science Fellow \| September 2020 - November 2020
+* Carthage College Psychology Lab
+    * Saccadic Eye Movement Researcher \| February 2018 - May 2018  
 
 ### Professional Experience
 * Deloitte

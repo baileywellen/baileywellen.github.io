@@ -5,6 +5,8 @@
 [See my full CV here](BWellenOsweiler_CV_Sept2023.pdf)
 
 ### Research Experience
+* Washington University, Thomas Kannampallil Lab - Electronic Health Record Audit Log Analysis  
+    * Lab Member \| Jan 2024 - Present
 * Washington University, Phillip Marotta Lab - Researching Medications for Opioid Use Disorder  
     * Lab Member \| Sept 2023 - Present  
 * Carthage College Senior Capstone

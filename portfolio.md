@@ -1,4 +1,4 @@
-[Home](index.md) | [My Experience](Experience.md) | [Portfolio](portfolio.md) | [Publications](Research.md)  
+[Home](index.md) | [My Experience](Experience.md) | [Portfolio](portfolio.md) | [Research](Research.md)  
 
 # Portfolio
 

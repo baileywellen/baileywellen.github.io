@@ -1,6 +1,6 @@
-[Home](index.md) | [My Experience](Experience.md) | [Portfolio](portfolio.md) | [Publications](Publications.md)  
+[Home](index.md) | [My Experience](Experience.md) | [Portfolio](portfolio.md) | [Publications](Research.md)  
 
-# Publications 
+# Research 
 
 ## I'm currently working on...   
 * **Osweiler, B.**, Tamakloe, M., Eshun, J., Marotta, P. (n.d.). Associations of State-level Substance Use Prevalence with Treatment Center Counts: Relationship by Profit Type [in progress]  

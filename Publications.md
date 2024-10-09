@@ -2,8 +2,16 @@
 
 # Publications 
 
+## I'm currently working on...   
+* Osweiler, B., Tamakloe, M., Eshun, J., Marotta, P. (n.d.). Associations of State-level Substance Use Prevalence with Treatment Center Counts: Relationship by Profit Type [in progress]  
+* Osweiler, B., Ramsey, A. (n.d.). Engage, Entrust, Enhearten: The iterative co-design and test of a digital ecological momentary intervention to reduce perinatal self-stigma involving opioid use disorder [in progress]
+* Osweiler, B., Lv, N., Ma, J., Lew, D., Kannampallil, T., (n.d.). Weight loss and depression trajectories during an integrated behavioral intervention: within-treatment analysis of the RAINBOW trial [in progress]  
+
+
+
 ## Publications 
-* None yet... in progress!
+* Osweiler, B., Hutson, W., & Marotta, P. (2024). Insurance-Related Risk Factors for Leaving Against Medical Advice after Opioid Overdose: A Cross-Sectional Study Using Electronic Health Records [with the editor]
+
 
 ## Presentations    
 * **Osweiler B**, Hutson W, Marotta P (2024, October 16-18), "Insurance risk factors for leaving against medical advice after opioid overdose: a retrospective cohort study using electronic health records" [Accepted for Poster Session], [Addiction Health Services Research Conference](https://www.ahsrconference.org/2024/), San Francisco, CA

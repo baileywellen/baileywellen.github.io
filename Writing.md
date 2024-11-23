@@ -1,3 +1,5 @@
+<!-- theme: jekyll-theme-slate -->
+
 [Home](index.md) | [My Experience](Experience.md) | [Programming Portfolio](portfolio.md) | [Research](Research.md) | [Creative Projects](Writing.md)    
 
 # Creative Writing Projects  

@@ -1,4 +1,4 @@
-[Home](index.md) | [My Experience](Experience.md) | [Portfolio](portfolio.md) | [Research](Research.md)  
+[Home](index.md) | [My Experience](Experience.md) | [Programming Portfolio](portfolio.md) | [Research](Research.md) | [Creative Projects](Writing.md)    
 
 # Research 
 

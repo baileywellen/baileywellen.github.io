@@ -4,7 +4,7 @@
 
 ## I'm currently working on...   
 * **Osweiler, B.**, Hutson, W., & Marotta, P. (n.d.). Insurance-Related Risk Factors for Leaving Against Medical Advice after Opioid Overdose: A Cross-Sectional Study Using Electronic Health Records [in progress]
-* **Osweiler, B.**, Ramsey, A. (n.d.). Engage, Entrust, Enhearten: The iterative co-design and test of a digital ecological momentary intervention to reduce perinatal self-stigma involving opioid use disorder [in progress]
+* **Osweiler, B.**, Rammaha, T., Szlyk, H., Dell, N., Kasson, Jacobson, N., Goodman, M., Cavazos, P., Ramsey, A. (n.d.). Engage, Entrust, Enhearten: The iterative co-design and test of a digital ecological momentary intervention to reduce perinatal self-stigma involving opioid use disorder [in progress]
 * **Osweiler, B.**, Lv, N., Ma, J., Lew, D., Kannampallil, T., (n.d.). Weight loss and depression trajectories during an integrated behavioral intervention: within-treatment analysis of the RAINBOW trial [in progress]  
 
 

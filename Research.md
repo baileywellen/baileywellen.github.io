@@ -10,7 +10,7 @@
 
 
 ## Publications 
-* **Osweiler, B.**, Tamakloe, M., Eshun, J., Marotta, P. (2024). Associations of State-level Substance Use Prevalence with Treatment Center Counts: Relationship by Profit Type [with the editor]  
+* **Osweiler, B.**, Tamakloe, M., Eshun, J., Marotta, P. (2024). Associations of State-level Substance Use Prevalence with Treatment Center Counts: Relationship by Profit Type [under review]  
 
 
 ## Presentations    

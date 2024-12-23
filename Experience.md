@@ -2,7 +2,7 @@
 
 # My Experience 
 
-[See my full CV here](BWellenOsweiler_CV_Dec2024.pdf)
+[See my full CV here](BWellenOsweiler_CV_Dec24.pdf)
 
 ### Research Experience
 * Washington University, Thomas Kannampallil Lab - Electronic Health Record Audit Log Analysis  

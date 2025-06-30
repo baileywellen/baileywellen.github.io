@@ -3,14 +3,16 @@
 # Research 
 
 ## I'm currently working on...   
-* **Osweiler, B.**, Hutson, W., & Marotta, P. (n.d.). Insurance-Related Risk Factors for Leaving Against Medical Advice after Opioid Overdose: A Cross-Sectional Study Using Electronic Health Records [in progress]
-* **Osweiler, B.**, Rammaha, T., Szlyk, H., Dell, N., Kasson, Jacobson, N., Goodman, M., Cavazos, P., Ramsey, A. (n.d.). Engage, Entrust, Enhearten: The iterative co-design and test of a digital ecological momentary intervention to reduce perinatal self-stigma involving opioid use disorder [in progress]
-* **Osweiler, B.**, Lv, N., Ma, J., Lew, D., Kannampallil, T., (n.d.). Weight loss and depression trajectories during an integrated behavioral intervention: within-treatment analysis of the RAINBOW trial [in progress]  
+* **Osweiler, B.**, Tamakloe, M., Eshun, J., Marotta, P. (2024). Associations of State-level Substance Use Prevalence with Treatment Center Counts: Relationship by Profit Type [in progress, preprint]
+* **Osweiler, B.**, Baratta, L., Eiden, E., Lou, S., Kannampallil, T., Lew, D. (n.d.) Identifying trajectories of Electronic Health Record Engagement during inpatient hospitalization [in progress]
 
 
 
 ## Publications 
-* **Osweiler, B.**, Tamakloe, M., Eshun, J., Marotta, P. (2024). Associations of State-level Substance Use Prevalence with Treatment Center Counts: Relationship by Profit Type [under review]  
+* 
+* **Osweiler BW**, Hutson WD, Marotta PL. Insurance-related Risk Factors for Leaving Against Medical Advice after Opioid Overdose: A Cross-sectional Study Using Electronic Health Records. J Addict Med. 2025 Jun 23;. doi: 10.1097/ADM.0000000000001521. [Epub ahead of print] PubMed PMID: 40549500.
+* **Osweiler, B.**, Lv, N., Ma, J., Lew, D., Kannampallil, T., (n.d.). Weight loss and depression trajectories during an integrated behavioral intervention: within-treatment analysis of the RAINBOW trial [under review]
+* **Osweiler, B.**, Rammaha, T., Szlyk, H., Dell, N., Kasson, C., Macon, J., Jacobson, N., Goodman, M., Cavazos, P., Ramsey, A. (n.d.). The iterative co-design and test of a digital ecological momentary intervention to reduce perinatal self-stigma involving opioid use disorder [under review]
 
 
 ## Presentations    

@@ -6,4 +6,6 @@
 
 I enjoy writing in my free time, especially light-hearted children's books and poetry.
 
-I’ll add work here as I publish or share it.
+## *Baaarnyard Daydreams*
+
+My children's book, *Baaarnyard Daydreams*, is available from [Target](https://www.target.com/p/baaarnyard-daydreams-by-bailey-w-osweiler-hardcover/-/A-1004580217).

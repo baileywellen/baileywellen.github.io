@@ -12,7 +12,7 @@ I am honored that my dissertation work has been funded by an F31 training grant 
 
 <div class="contact-panel">
   <p class="eyebrow">Let’s connect</p>
-  <p>Interested in collaborating or learning more? Reach me at <a href="mailto:baileywellen@gmail.com">baileywellen@gmail.com</a> or connect on <a href="https://www.linkedin.com/in/bailey-wellen/">LinkedIn</a>.</p>
+  <p>Interested in collaborating? Reach me at <a href="mailto:baileywellen@gmail.com">baileywellen@gmail.com</a> or connect on <a href="https://www.linkedin.com/in/bailey-wellen/">LinkedIn</a>.</p>
 </div>
 
  

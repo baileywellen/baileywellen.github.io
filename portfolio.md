@@ -1,6 +1,6 @@
 {% include navigation.html %}
 
-# Programming Portfolio
+# Programming
 
 <p class="section-intro">Selected projects in statistical modeling, visualization, and interactive data tools.</p>
 

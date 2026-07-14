@@ -15,4 +15,4 @@ My research sits at the intersection of addiction health services, public policy
 
 I am especially interested in research that connects rigorous quantitative methods with the lived experiences of people navigating health systems.
 
-<p class="profile-links"><a href="https://scholar.google.com/scholar?q=author%3A%22Bailey+W.+Osweiler%22">Google Scholar</a><a href="https://orcid.org/0009-0005-3179-8136">ORCID</a></p>
+<p class="profile-links"><a href="https://scholar.google.com/citations?user=rrqw6eoAAAAJ&amp;hl=en">Google Scholar</a><a href="https://orcid.org/0009-0005-3179-8136">ORCID</a></p>

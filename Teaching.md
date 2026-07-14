@@ -2,8 +2,6 @@
 
 # Teaching
 
-<p class="section-intro">Supporting thoughtful, responsible practice in data science.</p>
-
 I enjoy helping students develop critical thinking skills to apply technical content (programming, statistics) to complicated and meaningful social issues. I first developed an interest in teaching through peer-tutoring, so my approach to teaching is collaborative and learner-centered. My teaching interests include data science, complex networks, algorithmic fairness, and the responsible use of data in healthcare settings.
 
 Courses I have assistant-taught include: 

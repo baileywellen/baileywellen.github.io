@@ -47,6 +47,9 @@ li { margin-bottom: .75rem; }
 .contact-panel { margin-top: 2.5rem; padding: 1.5rem 1.7rem; background: var(--warm); border-left: 4px solid var(--accent); }
 .contact-panel p:last-child { margin-bottom: 0; }
 .section-intro { color: var(--muted); font-size: 1.05rem; }
+.profile-links { display: flex; flex-wrap: wrap; gap: .75rem; margin-top: 2.25rem; }
+.profile-links a { padding: .55rem .85rem; border: 1px solid var(--line); border-radius: .2rem; text-decoration: none; }
+.profile-links a:hover { border-color: var(--accent); background: #eef8f7; }
 .project-list h2 { margin-top: 2.7rem; }
 .project-list h2 + p { margin-top: 0; }
 .cv-download { display: inline-block; padding: .7rem 1rem; color: #fff; background: var(--accent); border-radius: .2rem; text-decoration: none; }

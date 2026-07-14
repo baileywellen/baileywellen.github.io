@@ -1,8 +1,10 @@
-[Home](index.md) | [My Experience](Experience.md) | [Programming Portfolio](portfolio.md) | [Research](Research.md) | [Creative Projects](Writing.md)    
+{% include navigation.html %}
 
 # My Experience 
 
-[See my full CV here](BWOsweiler_CVDec25.pdf)
+<p class="section-intro">A blend of research, data science, and consulting experience.</p>
+
+[View my full CV](BWOsweiler_CVDec25.pdf)
 
 ### Research Experience
 * Washington University, Thomas Kannampallil Lab - Electronic Health Record Audit Log Analysis  
@@ -51,4 +53,3 @@
   
 ### Technical Skills
 * Python, R, C / C++, SQL, Google Cloud Platform (GCP), Tableau, ArcGIS Pro  
-

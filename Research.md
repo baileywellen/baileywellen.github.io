@@ -2,8 +2,6 @@
 
 # Research
 
-<p class="section-intro">Using data to identify gaps in access to evidence-based treatment for substance use disorder.</p>
-
 My research sits at the intersection of addiction health services, public policy, and computational data science. I study how health systems can better support people with substance use disorders, particularly by creating informatics solutions that measure care delivery at-scale and identifying systemic gaps in treatment access. 
 
 ## Research interests

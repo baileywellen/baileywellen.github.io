@@ -4,8 +4,6 @@
 
 <p class="section-intro">Selected projects in statistical modeling, visualization, and interactive data tools.</p>
 
-<div class="project-list">
-
 ## Carthage College Senior Thesis - "Please Don't Sing"
 * For my senior thesis, I collected audio recordings from volunteers who sang "Happy Birthday". I created an R Shiny App for participants to hear randomly selected recordings and rate them on a scale of 0 - 10. Each recording was heard by many people, scores were normalized by reviewer, and recordings were given a rating based on the average of their reviewers' scoring. Then, I used this labeled data to build a model that could predict how enjoyable a given recording of "Happy Birthday" was, and presented the results on an interactive web app using Heroku.
 * [Review the data analysis repos here](https://github.com/baileywellen/Please_Dont_Sing)  
@@ -37,6 +35,4 @@
 
   
   
-*To see more of my projects, visit my [GitHub Profile](https://github.com/baileywellen)*  
-
-</div>
+*To see more of my projects, visit my [GitHub Profile](https://github.com/baileywellen)*

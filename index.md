@@ -2,11 +2,13 @@
 
 <p class="eyebrow">Computational &amp; Data Sciences</p>
 
-# Data for more equitable health care.
+# Improving health services through efficient large data processing.
 
-<p class="lede">I am a data scientist studying addiction health services and public policy, with a focus on treatment access, implementation barriers, and responsible use of health data.</p>
+<p class="lede">I am a data scientist studying mental and behavioral health services with a focus on treatment access, system- and policy-level implementation barriers, and responsible use of health data.</p>
 
-I earned undergraduate degrees in Computer Science and Data Science from [Carthage College](https://www.carthage.edu/) and am now pursuing a Ph.D. in Computational and Data Sciences at [Washington University in St. Louis](https://wustl.edu/). My work uses electronic health records and administrative data to identify disparities in substance use disorder treatment access. I care deeply about algorithmic fairness, implementation feasibility, and making research relevant to people with lived experience.
+I earned undergraduate degrees in Computer Science and Data Science from [Carthage College](https://www.carthage.edu/) and am now pursuing a Ph.D. in Computational and Data Sciences at [Washington University in St. Louis](https://wustl.edu/). My work uses electronic health records and administrative data to identify disparities in substance use disorder treatment access. I care deeply about algorithmic fairness, systemic barriers to treatment, and making research relevant to people with lived experience.  
+
+I am honored that my dissertation work has been funded by an F31 training grant (F31DA066305) and T32 instituional grant from the National Institute on Drug Abuse. I am open to postdoctoral opportunities related to health services, health policy, and mental/behavioral health starting in Fall 2027 or Spring 2028.
 
 <div class="contact-panel">
   <p class="eyebrow">Let’s connect</p>

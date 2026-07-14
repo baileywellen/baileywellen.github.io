@@ -4,7 +4,7 @@
 
 # Improving health services through efficient large data processing.
 
-<p class="lede">I am a data scientist studying mental and behavioral health services with a focus on treatment access, system- and policy-level implementation barriers, and responsible use of health data.</p>
+<p class="lede">I am a data scientist studying mental and behavioral health services with a focus on system- and policy-level treatment access barriers.</p>
 
 I earned undergraduate degrees in Computer Science and Data Science from [Carthage College](https://www.carthage.edu/) and am now pursuing a Ph.D. in Computational and Data Sciences at [Washington University in St. Louis](https://wustl.edu/). My work uses electronic health records and administrative data to identify disparities in substance use disorder treatment access. I care deeply about algorithmic fairness, reducing systemic barriers to treatment, and improving healthcare professional well-being while delivering evidence-based patient care.  
 
